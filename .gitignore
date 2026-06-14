@@ -8,7 +8,7 @@ __pycache__/
 *.pyo
 
 # ChromaDB vector store (built locally from your own documents)
-vectorstore/
+/vectorstore/
 
 # Interview / source documents
 data/
