@@ -1,0 +1,7 @@
+{
+  "scheme": "bolt",
+  "host_name": "localhost",
+  "port": 7687,
+  "user": "neo4j",
+  "password": ""
+}

@@ -1,0 +1,17 @@
+# Environment & secrets
+.env
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB vector store (built locally from your own documents)
+vectorstore/
+
+# Interview / source documents
+data/
+
+# Auto-generated graph-builder checkpoint
+checkpoint.json

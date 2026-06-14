@@ -1,0 +1,43 @@
+# ── Core LangChain stack ──────────────────────────────────────────────────────
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-neo4j
+langchain-ollama
+langchain-text-splitters
+langchain-experimental
+langgraph
+
+# ── LLM / API clients ─────────────────────────────────────────────────────────
+openai
+ollama
+langchain-anthropic
+
+
+# ── Vector stores & databases ────────────────────────────────────────────────
+chromadb
+neo4j
+
+# ── Document processing ──────────────────────────────────────────────────────
+pdfplumber
+python-docx
+docx2txt
+unstructured[all-docs]
+pikepdf
+fastembed
+sentence-transformers
+
+
+
+# ── Data / utilities ─────────────────────────────────────────────────────────
+pydantic
+python-dotenv
+python-dateutil
+tqdm
+typing-extensions
+
+# ── Web / audio ──────────────────────────────────────────────────────────────
+streamlit
+elevenlabs
