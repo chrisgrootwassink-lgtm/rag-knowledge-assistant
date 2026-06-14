@@ -10,7 +10,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 # 1. Setup Environment
 load_dotenv()
 _script_dir = os.path.dirname(os.path.abspath(__file__))
-directory_path = os.path.join(_script_dir, "Intervjuer")
+directory_path = os.path.join(_script_dir, "data")
 persist_db_path = os.path.join(_script_dir, "vectorstore")
 collection_name = "interview_documents"
 
